@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Test Program test@hotmail.com naming
 
 # THANKS
 
